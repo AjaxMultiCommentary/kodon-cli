@@ -1,0 +1,11 @@
+.DS_Store
+
+node_modules
+
+/dist
+
+/templates/*/.svelte
+/templates/*/.svelte-kit
+/templates/*/build
+/templates/*/dist
+/templates/*/package
