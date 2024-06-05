@@ -1,0 +1,12 @@
+title = "@@ COMMENTARY TITLE @@"
+description = "@@ COMMENTARY DESCRIPTION @@"
+
+[[table_of_contents]]
+label = "Introduction"
+urn = "@@ BASE_URN @@:intro"
+
+[[editions]]
+description = "Edition description"
+filename = "edition.xml"
+label = "Edition label"
+urn = "edition_urn"
